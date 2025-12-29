@@ -1,0 +1,13 @@
+{
+    "id": "my-feature",
+    "version": "1.0.0",
+    "name": "My Feature",
+    "description": "Installs my awesome tool",
+    "options": {
+        "version": {
+        "type": "string",
+        "default": "latest",
+        "description": "Version to install"
+        }
+    }
+}
